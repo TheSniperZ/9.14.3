@@ -61,3 +61,15 @@ int _tmain(int argc, _TCHAR* argv[])
 	return 0;
 }
 
+输出结果：
+Enter main...
+Default Constructor called
+Default Constructor called
+Default Constructor called
+Move point to (10 ， 13）
+Move point to (11 ， 14）
+Move point to (12 ， 15）
+End main...
+Destructor called
+Destructor called
+Destructor called
